@@ -1,0 +1,44 @@
+{
+    "filmes": [
+      {
+            "id": 1,
+            "titulo": "Guerra infinita",
+            "resumo":"Filme de heroi",
+            "atores":"Thanos",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/9/90/Avengers_Infinity_War.jpg",
+            "duracao":250
+        },
+      {
+            "id": 2,
+            "titulo": "One Piece",
+            "resumo":"Pirata",
+            "atores":"inaki",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/f/ff/One_Piece_vol._01.jpg",
+            "duracao":270
+        },
+      {
+            "id": 3,
+            "titulo": "Dr Stone",
+            "resumo":"Anime Quimico",
+            "atores":"Johnson",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/2/29/Doctor_stone.jpg",
+            "duracao":150
+        },
+      {
+            "id": 4,
+            "titulo": "Ragnarok",
+            "resumo":"Thor Loki",
+            "atores":"thor",
+            "capa":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Urnes_animals.jpg/200px-Urnes_animals.jpg",
+            "duracao":210
+      }
+     
+     ],
+     "atores": [
+        {
+            "id": 1,
+            "nome":"Thanos,  Inaki, Johnson, thor,",
+            "avatar": "https://upload.wikimedia.org/wikipedia/pt/9/9c/John_Lennon_-_Imagine.jpg"      
+        }
+    ]
+  }
